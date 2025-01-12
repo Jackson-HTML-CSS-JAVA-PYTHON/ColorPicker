@@ -1,0 +1,15 @@
+{
+    "name": "Color Picker",
+    "version": "0.0.0.1",
+    "manifest_version": 3,
+    "description": "A basic extension that displays an Color Picker in a pop-up.",
+    "icons": {
+        "16": "icons/eyedropper-icon-16x16-hzt9skzt.png",
+        "32": "icons/eyedropper-icon-32x32-hzt9skzt.png",
+        "48": "icons/eyedropper-icon-64x64-hzt9skzt.png",
+        "128": "icons/eyedropper-icon-128x128-hzt9skzt.png"
+    },
+    "action": {
+        "default_popup": "popup/popup.html"
+    }
+}
